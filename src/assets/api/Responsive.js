@@ -1,0 +1,33 @@
+const listCont = 
+[
+    {id:29, title:'KROSS PICTURES', enTitle:'', link:'krosspictures.com', target:'_blank', img:'../img/portfolio/responsive/krosspictures.jpg'},
+    {id:28, title:'간삼생활디자인(GHED)', enTitle:'', link:'ghed.co.kr', target:'_blank', img:'../img/portfolio/responsive/ghed.jpg'},
+    {id:27, title:'한국기계전기전자시험연구원', enTitle:'KTC', link:'ktc.re.kr', target:'_blank', img:'../img/portfolio/responsive/ktc.jpg'},
+    {id:26, title:'모즈헤어', enTitle:'mods hair', link:'modshair.co.kr', target:'_blank', img:'../img/portfolio/responsive/modshair.jpg'},
+    {id:25, title:'(주)퓨처스애드', enTitle:'Future Smart AD', link:'futuresad.com', target:'_blank', img:'../img/portfolio/responsive/futuresad.jpg'},
+    {id:24, title:'손정완', enTitle:'SON JUNG WAN', link:'', target:'_self', img:'../img/portfolio/responsive/sonjungwan.jpg'},
+    {id:23, title:'가야인터넷', enTitle:'GAYAINTERNET', link:'gayainternet.com/main', target:'_blank', img:'../img/portfolio/responsive/gayainternet.jpg'},
+    {id:22, title:'성균관대학교 - 아날로그 RF회로 및 시스템 연구센터', enTitle:'', link:'arrc-skku.co.kr', target:'_blank', img:'../img/portfolio/responsive/arrc-skku.jpg'},
+    {id:21, title:'STANDARDS & COMPANIES', enTitle:'', link:'stanco.or.kr', target:'_blank', img:'../img/portfolio/responsive/stanco.jpg'},
+    {id:20, title:'ADM korea', enTitle:'', link:'admkorea.co.kr', target:'_blank', img:'../img/portfolio/responsive/admkorea.jpg'},
+    {id:19, title:'화성서희스타힐스 4차', enTitle:'STARHILLS', link:'sn-starhills.co.kr', target:'_blank', img:'../img/portfolio/responsive/sn-starhills.jpg'},
+    {id:18, title:'아키마켓', enTitle:'ARCHI MARKET', link:'archimarket.co.kr', target:'_blank', img:'../img/portfolio/responsive/archimarket.jpg'},
+    {id:17, title:'레이져디자인시스템', enTitle:'Laser Design Systems Inc.', link:'laserdesign.co.kr', target:'_blank', img:'../img/portfolio/responsive/laserdesign.jpg'},
+    {id:16, title:'한성대학교 경영대학원', enTitle:'', link:'', target:'_self', img:'../img/portfolio/responsive/hsmbahansungackr.jpg'},
+    {id:15, title:'로드하우징', enTitle:'', link:'', target:'_self', img:'../img/portfolio/responsive/roadhouse.jpg'},
+    {id:14, title:'아시아태권도연맹', enTitle:'WORLD TAEKWONDO ASIA', link:'wtasia.org', target:'_blank', img:'../img/portfolio/responsive/wtasia.jpg'},
+    {id:13, title:'이원이엔지', enTitle:'E1ENG', link:'e1eng.co.kr', target:'_blank', img:'../img/portfolio/responsive/e1eng.jpg'},
+    {id:12, title:'유성에너지', enTitle:'U-SUNG ENERGY', link:'usungenergy.com', target:'_blank', img:'../img/portfolio/responsive/usungenergy.jpg'},
+    {id:11, title:'코리마', enTitle:'Korima', link:'korima.co.kr', target:'_blank', img:'../img/portfolio/responsive/korima.jpg'},
+    {id:10, title:'한국교통안전공단노동조합', enTitle:'TS Labor Union', link:'tsunion.or.kr', target:'_blank', img:'../img/portfolio/responsive/tsunion.jpg'},
+    {id:9, title:'KS 인증기관협의회', enTitle:'ksnara', link:'ksnara.or.kr', target:'_blank', img:'../img/portfolio/responsive/ksnara.jpg'},
+    {id:8, title:'창원이씨오', enTitle:'CW', link:'', target:'_self', img:'../img/portfolio/responsive/cweco.jpg'},
+    {id:7, title:'나비엘', enTitle:'NAVIEL', link:'www.naviel.co.kr', target:'_blank', img:'../img/portfolio/responsive/ceragemlohas.jpg'},
+    {id:6, title:'한국농어촌공사', enTitle:'', link:'', target:'_self', img:'../img/portfolio/responsive/ieec.jpg'},
+    {id:5, title:'한국PR협회', enTitle:'KPRA', link:'', target:'_self', img:'../img/portfolio/responsive/koreapr.jpg'},
+    {id:4, title:'세계로선박금융', enTitle:'', link:'www.globalmarifin.com', target:'_blank', img:'../img/portfolio/responsive/globalmarifin.jpg'},
+    {id:3, title:'(주)대한구조컨설턴트', enTitle:'', link:'daehan08.com', target:'_blank', img:'../img/portfolio/responsive/daehan.jpg'},
+    {id:2, title:'뉴라클', enTitle:'NEURACLES SCIENCE', link:'neuracles.com', target:'_blank', img:'../img/portfolio/responsive/neuracles.jpg'},
+    {id:1, title:'가야이엠', enTitle:'GAYA EM', link:'gayaem.com', target:'_blank', img:'../img/portfolio/responsive/gayaem.jpg'}
+]
+export default listCont;
