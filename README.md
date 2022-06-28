@@ -1,1 +1,1 @@
-newweb.kr 홈페이지의 react 소스 입니다.
+newweb.kr 홈페이지를 react로 만든 소스 입니다.
